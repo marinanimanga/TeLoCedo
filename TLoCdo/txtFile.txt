@@ -1,0 +1,68 @@
+TODO- LIST - Marina
+- Diseño de la app
+- App Web/móvil
+- Ejemplo a tiempo real
+- Abrir el programa
+- Generar un usuario nuevo - validaciones
+- Iniciar Sesión
+- Autor - subir un libro nuevo
+- Voy a leer el libro que he subido
+- otros anteriores
+- Mejoras
+- Agradecimientos
+Diseño de la APP
+Para el diseño de la app, hemos seguido todos los principios que hemos aprendido
+durante estos dos años de grado. Primero, queríamos que nuestra interfaz fuera sencilla, y
+con ello, su usabilidad también lo fuera, es decir, que el usuario pudiera entender que
+debe de hacer con un simple vistazo.
+A su vez, hemos pensado en la experiencia de usuario, para que todo lo que integremos en
+la aplicación sea fácil de usar e intuitivo. Y para ello hemos seguido colores neutros ya
+que tuvimos en cuenta que la aplicación se vería diferente según el sistema operativo en el
+que se abriese. De manera que en windows y en Mac hubieran diferencias mínimas.
+Además, en el registro, es en el único sitio donde hemos permitido que hayan colores, para
+que mediante ese código de color, se pudiera entender si el registro está yendo
+correctamente o no.
+Desarrollo de la app de escritorio
+Primero hemos pensado en qué uso queremos darle a la aplicación.
+- Compartir escritos
+- Poder leerlos
+- Creación de usuarios e inicio de sesión
+Luego hemos diseñado las diferentes partes del proyecto en base a los usos que hemos
+querido crear.
+Hemos seguido el Modelo Vista controlador - para organizar las clases y gracias a ello
+poder reutilizarlas en el futuro para los otros programas.
+Además, hemos creado un sistema de contraseñas cifradas para mantener la seguridad de
+la aplicación, tanto fuera como a nivel administrativo de la aplicación.
+Finalmente, hemos ido desarrollando cada parte por separado y luego probándola en el
+programa. De manera que hemos creado un inicio de sesión y un registrarse. Hemos
+probado cada una por separado y luego juntas antes de seguir adelante.
+Aplicación WEB/Movil
+En cuanto a la aplicación móvil hemos querido que se pareciese lo máximo posible a la
+aplicación de escritorio, tanto visual como en su programación interna. Por ello, hemos
+mantenido los colores neutros y la interfaz sencilla.
+Por otro lado, en cuanto a su programación interna, ha sido necesario readaptar las clases
+al lenguaje javascript, primero porque es un lenguaje parecido en algunos ámbitos, como
+que no tiene otros. Así pues, una vez se ha readaptado las clases y creado las necesarias,
+hemos conseguido que nuestra aplicación web funcione lo más parecido a nuestra
+aplicación de escritorio. Llegando incluso a poder iniciar sesión y usar el contenido de
+manera indiferente de la plataforma.
+La aplicación móvil por su parte, fue una extensión de la aplicación web, gracias a los
+métodos actuales que existen para transformar de web a móvil. Nosotros hemos escogido
+utilizar Códrova, para ello.
+Ejemplo a tiempo real
+Pendiente de grabar
+Mejoras
+Página principal con los últimos libros añadidos
+Recomendaciones personalizadas
+Valoraciones de otros usuarios
+Mejoras en la categorización de las obras
+- añadir que géneros no quieres que salgan
+- poder buscar más de un género a la vez
+Crear una búsqueda por valoraciones de los usuarios
+Creación de funciones sociales – redes sociales – más interacción
+Agradecimientos
+Me encantaría agradecer a nuestro tutor Alberto Castedo por
+A Lucía de la Iglesia, por enseñarnos el lado del backend, el cual fue muy necesario para
+este proyecto.
+Y a CCC por enseñarnos las distintas partes de este ámbito que ha favorecido la creación
+de este proyecto.
