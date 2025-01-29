@@ -18,13 +18,10 @@ REQUISITOS
 Java 23 o superior
 PDFbox2 version 2.0.31 y pdfbox-app-2.0.31. El proyecto utiliza esta librería para transformar los pdf en textos planos y viceversa. 
 
-INSTRUCCIONES
-Si quieres usar PDFBOX solo debes añadirla como dependencia de este proyecto. Para ello ve a: 
-
-
 Para asegurarte que tienes la versión java correcta (Java 23) ejecuta en la terminal:
 java -version
 
+INSTRUCCIONES
 Para compilar el proyecto, te recomiendo usar un IDE ya que este proyecto posee muchos archivos .java. En mi caso, he usado IntelliJ.
 Clona el proyecto desde github:
 1. Abre IntelliJ IDEA.
