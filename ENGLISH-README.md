@@ -21,10 +21,10 @@ REQUIREMENTS
 Java 23 or higher
 PDFBox version 2.0.31 and pdfbox-app-2.0.31. The project uses this library to convert PDFs to plain text and vice versa.
 
-INSTRUCTIONS
 To ensure you have the correct Java version (Java 23), run the following in the terminal:
 java -version
 
+INSTRUCTIONS
 To compile the project, I recommend using an IDE, as this project has many .java files. In my case, I have used IntelliJ.
 
 Clone the project from GitHub:
